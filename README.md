@@ -1,5 +1,6 @@
 # enterprise-ad-lab
 Enterprise Windows Server 2022 &amp; Win10 lab showcasing Active Directory management, PowerShell bulk provisioning, GPO enforcement, and Jira IT support workflows.
+
 ![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue?logo=windows)![Active Directory](https://img.shields.io/badge/Active_Directory-Domain_Services-blue)![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?logo=powershell)![VirtualBox](https://img.shields.io/badge/VirtualBox-7.x-183A61?logo=virtualbox)![Jira](https://img.shields.io/badge/Jira-Ticketing_System-0052CC?logo=jira&logoColor=white)
 ## 📌 Project Overview
 As an aspiring IT support professional transitioning into infrastructure administration, I engineered this laboratory environment to simulate a production-grade enterprise network. Moving beyond passive learning, the primary objective is demonstrating hands-on competency in **Active Directory domain management**, identity provisioning, and access control policies. To achieve this, I manually architected a secure domain, implemented automated user provisioning via PowerShell, and enforced access restrictions through Group Policies (GPOs) inside an isolated virtualized environment.
