@@ -1,15 +1,15 @@
-# enterprise-ad-lab
-Enterprise Windows Server 2022 &amp; Win10 lab showcasing Active Directory management, PowerShell bulk provisioning, GPO enforcement, and Jira IT support workflows.
+Enterprise Windows Server 2022 & Win10 lab showcasing Active Directory management, PowerShell bulk provisioning, GPO enforcement, and Jira IT support workflows.
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue?logo=windows)![Active Directory](https://img.shields.io/badge/Active_Directory-Domain_Services-blue)![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?logo=powershell)![VirtualBox](https://img.shields.io/badge/VirtualBox-7.x-183A61?logo=virtualbox)![Jira](https://img.shields.io/badge/Jira-Ticketing_System-0052CC?logo=jira&logoColor=white)
+
 ## 📑 Table of Contents
-- [Project Overview](#project-overview)
-- [Key Objectives](#key-objectives)
-- [Architecture & Environment Setup](#architecture--environment-setup)
-- [Implementation Steps](#implementation-steps)
-- [Lab Incident Reports (Help Desk Simulation)](#lab-incident-reports-help-desk-simulation)
-- [Lessons Learned & Troubleshooting (My Takeaway)](#lessons-learned--troubleshooting-my-takeaway)
-- [Acknowledgments](#acknowledgments)
+- [Project Overview](#-project-overview)
+- [Key Objectives](#-key-objectives)
+- [Architecture & Environment Setup](#-architecture--environment-setup)
+- [Implementation Steps](#-implementation-steps)
+- [Lab Incident Reports (Help Desk Simulation)](#-lab-incident-reports-help-desk-simulation)
+- [Lessons Learned & Troubleshooting (My Takeaway)](#-lessons-learned--troubleshooting-my-takeaway)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 ## 📌 Project Overview
