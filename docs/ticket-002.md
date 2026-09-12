@@ -10,7 +10,7 @@
   * Verified manager approval for departmental resource provisioning.
 * **Deliverable / Screenshots:** 
   * Triage confirmation in Jira showing active assignment and status:
-    ![Jira Triage](Ticket2-triage.png)
+    ![Jira Triage](../assets/Ticket2-triage.png)
 
 ## 2. Investigation & Remediation (Active Directory & File Server - DC-01)
 * **Environment:** Windows Server Domain Controller (`DC-01`), Active Directory Users and Computers (ADUC), File Server.
@@ -23,9 +23,9 @@
   * Applied and saved the configuration.
 * **Deliverable / Screenshots:** 
   * Folder permissions showing Change and Read access for the security group:
-    ![Ticket2-permission](Ticket2-permission.png)
+    ![Ticket2-permission](../assets/Ticket2-permission.png)
   * ADUC properties window showing user Frank Karl added to the security group members list:
-    ![Ticket2-SG-Properties](Ticket2-SG-Properties.png)
+    ![Ticket2-SG-Properties](../assets/Ticket2-SG-Properties.png)
 
 ## 3. Verification & Documentation (Jira Cloud)
 * **Endpoint Testing:** Logged into the Windows 10 Client as Frank Karl to refresh Kerberos tickets. Navigated to `\\DC-01\Marketing` and successfully created a test file, confirming effective write/modify access.
@@ -35,6 +35,6 @@
   * Configured global resolution status (`Done`) and transitioned the ticket workflow state to Resolved.
 * **Deliverable / Screenshots:** 
   * Final closed Jira ticket displaying the Resolved status:
-    ![Ticket2-solved](Ticket2-solved.png)
+    ![Ticket2-solved](../assets/Ticket2-solved.png)
   * Internal yellow/grey documentation note confirming resolution details:
-    ![Ticket2-solved-note](Ticket2-solved-note.png)
+    ![Ticket2-solved-note](../assets/Ticket2-solved-note.png)
