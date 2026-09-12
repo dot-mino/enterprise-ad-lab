@@ -5,9 +5,9 @@ Enterprise Windows Server 2022 & Win10 lab showcasing Active Directory managemen
 ## 📑 Table of Contents
 - [Project Overview](#-project-overview)
 - [Key Objectives](#-key-objectives)
-- [Architecture & Environment Setup](#-architecture--environment-setup)
+- [Architecture & Environment Setup](#%EF%B8%8F-architecture--environment-setup)
 - [Implementation Steps](#-implementation-steps)
-- [Lab Incident Reports (Help Desk Simulation)](#-lab-incident-reports-help-desk-simulation)
+- [Lab Incident Reports (Help Desk Simulation)](#%EF%B8%8F-lab-incident-reports-help-desk-simulation)
 - [Lessons Learned & Troubleshooting (My Takeaway)](#-lessons-learned--troubleshooting-my-takeaway)
 - [Acknowledgments](#-acknowledgments)
 
