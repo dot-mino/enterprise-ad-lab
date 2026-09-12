@@ -17,7 +17,7 @@ As an aspiring IT support professional transitioning into infrastructure adminis
 * **Domain Name:** `mydomain.com`
 * **Server (DC-01):** Windows Server 2022 (Desktop Experience) | Static IP: `192.168.1.100`
 * **Client (Win10-Client):** Windows 10 Pro | Static IP: `192.168.1.101` | Primary DNS: `192.168.1.100`
-![Lab Network Architecture](Architecture.jpg)
+![Lab Network Architecture](assets/Architecture.jpg)
 
 ## 🚀 Implementation Steps
 
