@@ -10,7 +10,7 @@
   * Verified software approval policy for the departmental user profile.
 * **Deliverable / Screenshots:** 
   * Triage confirmation in Jira showing active assignment and status:
-    ![Ticket3](Ticket3.png)
+    ![Ticket3](../assets/Ticket3.png)
 
 ## 2. Investigation & Remediation (Endpoint & UAC - Win10-Client)
 * **Environment:** Windows 10 Client (`Win10-Client`), User Account Control (UAC).
@@ -22,7 +22,7 @@
   * Authenticated directly inside the UAC prompt using domain administrator credentials to authorize the temporary installation context.
 * **Deliverable / Screenshots:** 
   * UAC prompt requiring administrative credentials on the endpoint:
-    ![Ticket3-uac](Ticket3-uac.png)
+    ![Ticket3-uac](../assets/Ticket3-uac.png)
 
 ## 3. Verification & Documentation (Jira Cloud)
 * **Endpoint Testing:** Verified that the application installed successfully into the system directory and launched correctly under the user session for Chet Biro.
@@ -32,6 +32,6 @@
   * Configured global resolution status (`Done`) and transitioned the ticket workflow state to Resolved.
 * **Deliverable / Screenshots:** 
   * Final closed Jira ticket displaying the Resolved status:
-    ![Ticket3-done](Ticket3-done.png)
+    ![Ticket3-done](../assets/Ticket3-done.png)
   * Internal yellow/grey documentation note confirming resolution details:
-    ![Ticket3-done-note](Ticket3-done-note.png)
+    ![Ticket3-done-note](../assets/Ticket3-done-note.png)
